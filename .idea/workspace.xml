@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f60cce03-bb8c-4e20-8ac9-c0c9866a8f31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BlockchainSample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/_init_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/block.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/blockchain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/hash_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/merkle_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_blockchain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_merkle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_security.py" afterDir="false" />
+    <list default="true" id="f60cce03-bb8c-4e20-8ac9-c0c9866a8f31" name="Changes" comment="Prima commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Raiden-89"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Raiden-89/BlockchainSample.git",
+    "accountId": "93b41b73-adaf-4e59-8dd2-50d9825eeb27"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -71,6 +68,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -186,12 +184,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754580414770</updated>
-      <workItem from="1754580415833" duration="2344000" />
+      <workItem from="1754580415833" duration="2975000" />
     </task>
+    <task id="LOCAL-00001" summary="Prima commit">
+      <option name="closed" value="true" />
+      <created>1754582815229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754582815229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prima commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prima commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BlockchainSample$main.coverage" NAME="main Coverage Results" MODIFIED="1754582434481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
