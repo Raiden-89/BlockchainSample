@@ -1,4 +1,3 @@
-import pytest
 from repository.merkle_tree import MerkleTree
 from repository.blockchain import Blockchain
 from repository.hash_utils import simple_hash

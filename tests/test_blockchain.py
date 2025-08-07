@@ -1,4 +1,3 @@
-import pytest
 from repository.merkle_tree import MerkleTree
 from repository.blockchain import Blockchain
 from test_utils import generate_test_keys  # Se la funzione è in un file separato
