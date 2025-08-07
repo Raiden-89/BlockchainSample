@@ -39,3 +39,19 @@ class MerkleTree:
             level += 1
             width //= 2
         dot.render(filename, format="png", cleanup=True)
+
+    def streamlit_graph(self) -> Digraph:
+        dot = Digraph()
+        nodes = list(self.tree)
+        idx = 0
+        level = 0
+        width = len(self.leaves)
+        while width >= 1:
+            for i in range(width):
+                dot.node(f"{idx}", nodes[idx])
+                if level > 0:
+                    dot.edge(f"{(idx - width * 2) // 2}", f"{idx}")
+                idx += 1
+            level += 1
+            width //= 2
+        return dot
