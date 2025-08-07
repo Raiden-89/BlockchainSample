@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f60cce03-bb8c-4e20-8ac9-c0c9866a8f31" name="Changes" comment="Prima commit">
+    <list default="true" id="f60cce03-bb8c-4e20-8ac9-c0c9866a8f31" name="Changes" comment="readme1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/_init_.py" beforeDir="false" afterPath="$PROJECT_DIR$/repository/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BlockchainSample" />
       <recent name="C:\BlockchainSample\repository" />
     </key>
   </component>
@@ -184,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754580414770</updated>
-      <workItem from="1754580415833" duration="2975000" />
+      <workItem from="1754580415833" duration="4555000" />
     </task>
     <task id="LOCAL-00001" summary="Prima commit">
       <option name="closed" value="true" />
@@ -194,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754582815229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readme">
+      <option name="closed" value="true" />
+      <created>1754583543106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754583543106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme1">
+      <option name="closed" value="true" />
+      <created>1754583583348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754583583348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +231,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prima commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prima commit" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="readme1" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BlockchainSample$main.coverage" NAME="main Coverage Results" MODIFIED="1754582434481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
