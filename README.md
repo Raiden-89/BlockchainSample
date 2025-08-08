@@ -110,13 +110,8 @@ Con `pharma_blockchain_app.py` puoi:
 
 ## 📌 Requisiti
 
-- Python 3.9+
-- Librerie Python:
-  ```bash
-  pip install rsa streamlit pytest graphviz
-  ```
-
-- [Graphviz](https://graphviz.org/download/) (solo per visualizzazione Merkle Tree)
+- Python 3.12+
+- Librerie Python requirements.txt
 
 ---
 
